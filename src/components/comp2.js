@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ChildComponent2 = ({setSelect,setSelectedOption}) => {
+const ChildComponent2 = ({selectedOption,setSelectedOption}) => {
   return (
     <div>
         <h1>Child Component 2</h1>
